@@ -1,5 +1,5 @@
 # Super-Mario-Monopoly-Project
-I created this project to help with an issue with Hasbro no longer offering the Power Packs in store for Super Mario Monopoly Gamer.
+I created this project to help with an issue with Hasbro no longer offering the Monopoly Gamer Power Packs in store for Super Mario Monopoly Gamer.
 
 Project includes 5 files.
     Screenshots of what the project looks like.
