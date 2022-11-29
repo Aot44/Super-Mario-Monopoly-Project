@@ -1,6 +1,9 @@
 # Super-Mario-Monopoly-Project
 I created this project to help with an issue with Hasbro no longer offering the Monopoly Gamer Power Packs in store for Super Mario Monopoly Gamer.
 
+12 Character Game Pieces:
+    https://www.thingiverse.com/thing:5667812
+
 Project includes 5 files.
     Screenshots of what the project looks like.
       . "Screenshot_20221114-225848_Fabularium.jpg"
